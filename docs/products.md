@@ -11,7 +11,7 @@ title: 美味產品
 香脆的外皮包裹著濃郁的巧克力。
 
 ### 草莓蛋糕 (Strawberry Cake)
-![草莓蛋糕](assets/img/strawberry.jpg)
+![草莓蛋糕](assets/img/strawberry.png)
 嚴選當季草莓，每一口都是幸福。
 
 [回首頁](index.html)
